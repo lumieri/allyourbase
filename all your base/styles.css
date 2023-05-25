@@ -1,0 +1,43 @@
+/* 
+Challenge:
+Re-design the cookie widget!
+PS: Make sure you change ALL of the listed CSS properties.
+*/
+
+body {
+    background: black;     /* red, blue, yellow, etc */
+    color: rgba(76, 158, 29, 0.925);             /* red, blue, yellow, etc */
+    font-size: 100px;        /* 0px - 100px and beyond */
+    font-weight: bolder;   /* lighter, normal, bold  */
+    text-align: center;      /* left, center or right  */ 
+    margin-top: 50px;        /* From 0px and upwards   */
+}
+
+p{
+    background: rgba(73, 5, 5, 0.582);     /* red, blue, yellow, etc */
+    color: rgba(76, 158, 29, 0.925);             /* red, blue, yellow, etc */
+    font-size: 100px;        /* 0px - 100px and beyond */
+    font-weight: normal;   /* lighter, normal, bold  */
+    text-align: center;      /* left, center or right  */ 
+    margin-top: 100px;        /* From 0px and upwards   */
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: double;
+    border-color: rgba(73, 5, 5, 0.582);
+    margin-top: 50px;        /* From 0px and upwards   */
+}
+
+button{
+    height: 40px;
+    line-height: 40px;
+    background-color: rgba(73, 5, 5, 0.582);
+    color: rgba(76, 158, 29, 0.925);
+    font-weight: bolder;
+}
+
+
+
